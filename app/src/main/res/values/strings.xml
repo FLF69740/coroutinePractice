@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CoroutineOne</string>
+
+    <string name="cashier">Level</string>
+    <string name="barista_one">barista 1</string>
+    <string name="barista_two">barista 2</string>
+</resources>
